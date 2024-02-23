@@ -1,0 +1,1 @@
+No Content: https://crswan.com/scripts/fancybox/jquery.fancybox.js
